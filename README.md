@@ -1,135 +1,198 @@
 <div align="center">
 
-# Hi, I'm Pilli Eshwar 👋
-### Data Analyst & Python Developer
-
-📍 Hyderabad, India &nbsp;|&nbsp; 🟢 Open to Work — On-site · Hybrid · Remote
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pilli-eshwar)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pillieshwar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eshwarnani8008)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9A7,100:FF6B6B&height=200&section=header&text=Pilli%20Eshwar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
 </div>
-
----
-
-## 🚀 About Me
-
-I'm a **data-driven professional** with a B.Tech in Electronics & Communications Engineering (2025) and hands-on experience building Python pipelines, interactive dashboards, and translating complex datasets into clear business decisions.
-
-At **Narvee Technologies**, I've engineered data cleaning pipelines, automated SendGrid/Mailchimp API workflows, and owned end-to-end KPI reporting — **cutting bounce rates by 40%** and **improving targeting efficiency by 30%** across 100K+ subscriber records.
-
-> 🎯 *Actively seeking Data Analyst or Python Developer roles where I can drive data-backed decisions and build scalable analytics solutions.*
-
----
-
-## 📊 Impact at a Glance
 
 <div align="center">
 
-| 📦 100K+ | 📉 40% | 🎯 30% |
-|:---:|:---:|:---:|
-| Subscriber records segmented & cleaned | Reduction in email bounce rates | Improvement in campaign targeting |
+### 🌟 Turning Raw Data into Real Decisions 🌟
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&random=false&width=600&lines=Data+Analyst+%F0%9F%93%8A;Python+Developer+%F0%9F%90%8D;SQL+%7C+Tableau+%7C+Power+BI;Open+to+Work+%F0%9F%9F%A2+On-site+%C2%B7+Hybrid+%C2%B7+Remote)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pilli-eshwar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pillieshwar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eshwarnani8008)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Eshwarnani8008&label=Profile+Views&color=6C63FF&style=for-the-badge)
 
 </div>
 
 ---
 
-## 💼 Experience
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-**🟢 Python Developer** — Narvee Technologies Pvt Ltd *(Jun 2025 – Present | Hyderabad)*
-- Segmented and profiled **100K+ subscriber lists** using Python & PostgreSQL, improving targeting by 30%
-- Engineered de-duplication & validation pipelines, reducing email bounce rates by **40%**
-- Automated workflows via **SendGrid/Mailchimp API** integrations, eliminating manual extraction
-- Delivered weekly/monthly **KPI reports** (Open Rate, CTR, Conversion Rate) to cross-functional stakeholders
+## 👨‍💻 About Me
 
-**🔵 Data Analyst** — Narvee Technologies Pvt Ltd *(Mar 2025 – May 2025)*
-- Drafted **BRDs and FRDs** to guide development of a custom Applicant Tracking System
-- Automated data extraction from LinkedIn & Dice using **Selenium / BeautifulSoup**
-- Processed raw datasets with **Pandas**, maintaining high data integrity in SQL environments
+🎓 **B.Tech in ECE** from Vardhaman College of Engineering (2025)
 
-**🟣 RTL Design Intern** — NIELIT *(May 2024 – Jul 2024 | Remote)*
-- Completed RTL Design training with practical projects using **Verilog HDL**
-- Gained hands-on experience in **VLSI CAD tools** and digital design phases
-- Earned NIELIT certification in professional development
+💼 Currently working as **Python Developer** at **Narvee Technologies**
+
+🔭 Building **ETL pipelines**, dashboards & automation tools
+
+🌱 Actively exploring **advanced SQL**, **machine learning**, and **data storytelling**
+
+📊 Passionate about turning messy datasets into **clear business insights**
+
+🎯 Seeking **Data Analyst / Python Developer** roles
+
+📍 Hyderabad, India &nbsp;|&nbsp; 🟢 **Open to Work**
+
+<br clear="right"/>
+
+---
+
+## 🏆 Impact Highlights
+
+<div align="center">
+
+| 🚀 Metric | 📈 Result |
+|:---|:---|
+| 📦 Subscriber records segmented & cleaned | **100,000+** |
+| 📉 Email bounce rate reduction | **40%** |
+| 🎯 Campaign targeting improvement | **30%** |
+| ⚡ Manual work eliminated via API automation | **100%** |
+
+</div>
+
+---
+
+## 💼 Work Experience
+
+<details open>
+<summary><b>🟢 Python Developer — Narvee Technologies Pvt Ltd (Jun 2025 – Present)</b></summary>
+<br/>
+
+> 📍 Hyderabad | On-site
+
+- 🔹 Segmented & profiled **100K+ subscriber lists** using Python & PostgreSQL → **+30% targeting efficiency**
+- 🔹 Built de-duplication & validation pipelines → **-40% email bounce rate**
+- 🔹 Automated workflows via **SendGrid/Mailchimp APIs**, eliminating manual extraction
+- 🔹 Delivered weekly/monthly **KPI reports** (Open Rate, CTR, Conversion Rate) to stakeholders
+
+`Python` `PostgreSQL` `SendGrid API` `KPI Reporting` `Data Pipelines`
+
+</details>
+
+<details>
+<summary><b>🔵 Data Analyst — Narvee Technologies Pvt Ltd (Mar 2025 – May 2025)</b></summary>
+<br/>
+
+- 🔹 Drafted **BRDs & FRDs** for a custom Applicant Tracking System
+- 🔹 Automated data extraction from LinkedIn & Dice via **Selenium / BeautifulSoup**
+- 🔹 Processed raw datasets with **Pandas**, maintaining SQL data integrity
+- 🔹 Managed requirements between stakeholders and tech teams
+
+`Selenium` `BeautifulSoup` `SQL` `Pandas` `BRD/FRD`
+
+</details>
+
+<details>
+<summary><b>🟣 RTL Design Intern — NIELIT (May 2024 – Jul 2024)</b></summary>
+<br/>
+
+- 🔹 Completed RTL Design training with **Verilog HDL** practical projects
+- 🔹 Hands-on with **VLSI CAD tools** and digital design phases
+- 🔹 Earned **NIELIT Certification**
+
+`Verilog HDL` `RTL Design` `VLSI CAD`
+
+</details>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Databases**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+**💻 Languages & Databases**
 
-**Data & Analytics**
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL_Pipelines-2ECC71?style=flat-square&logo=apacheairflow&logoColor=white)
+**📊 Data & Analytics**
 
-**Visualization & BI**
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel_Advanced-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+**📈 Visualization & BI**
 
-**Automation & APIs**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FF6B6B?style=flat-square&logo=python&logoColor=white)
-![SendGrid](https://img.shields.io/badge/SendGrid_API-1A82E2?style=flat-square&logo=sendgrid&logoColor=white)
-![Mailchimp](https://img.shields.io/badge/Mailchimp_API-FFE01B?style=flat-square&logo=mailchimp&logoColor=black)
+**⚙️ Automation & APIs**
 
----
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=for-the-badge&logo=sendgrid&logoColor=white)
+![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)
 
-## 📁 Featured Projects
-
-### 🔐 RNS-Based Digital Random Sequence Generator
-> *Feb 2025 – Apr 2025 · Vardhaman College*
-
-Designed a **Residue Number System (RNS)**-based random sequence generator boosting efficiency in high-speed computing and cryptography using parallel processing with permutation polynomial randomness.
-
-`Cadence` `Xilinx Vivado` `Verilog HDL`
+</div>
 
 ---
 
-### 🔒 ECC Cryptography Using RNS Multiplication
-> *Sep 2024 – Jan 2025 · Vardhaman College*
+## 🚀 Featured Projects
 
-Implemented **Elliptic Curve Cryptography (ECC)** using RNS multiplication for faster, smaller, and more efficient cryptographic keys — enhancing security for public-key encryption systems.
+<div align="center">
 
-`Cadence` `Xilinx Vivado` `ECC`
+| 🔐 Project | 📝 Description | 🛠️ Tech |
+|:---|:---|:---|
+| **RNS-Based Digital Random Sequence Generator** | Designed an RNS-based random sequence generator boosting efficiency in high-speed computing & cryptography using parallel processing | `Cadence` `Xilinx Vivado` `Verilog HDL` |
+| **ECC Cryptography Using RNS Multiplication** | Implemented Elliptic Curve Cryptography using RNS multiplication for faster, smaller cryptographic keys | `Cadence` `Xilinx Vivado` `ECC` |
+| **Mass Mailing Automation** | Automated bulk email campaigns with data cleaning, segmentation & API integration | `Python` `SendGrid` `PostgreSQL` |
+
+</div>
 
 ---
 
-## 🎓 Education
+## 📊 GitHub Stats
 
-🎓 **B.Tech — Electronics & Communications Engineering**
-Vardhaman College of Engineering (VCEH) · *2021 – 2025*
+<div align="center">
 
-📘 **Intermediate — Telangana State Board (TSBIE)**
-SPR Junior College · *2019 – 2021*
+<img src="https://github-readme-stats.vercel.app/api?username=Eshwarnani8008&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshwarnani8008&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshwarnani8008&theme=tokyonight&hide_border=true" width="600"/>
+
+</div>
 
 ---
 
 ## 🏅 Certifications
 
-- 📊 **Deloitte Australia — Data Analytics Job Simulation** · Forage · *Jun 2025* · `uqmT74maKQC5zk6tR`
-- 📚 **E-Learning Theory and Practice for Publishers** · Alison · *May 2023* · `1541-31122361`
+<div align="center">
+
+| 🏆 Certificate | 🏢 Issuer | 📅 Date |
+|:---|:---|:---|
+| 📊 Deloitte Australia — Data Analytics Job Simulation | Forage | Jun 2025 |
+| 📚 E-Learning Theory and Practice for Publishers | Alison | May 2023 |
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 🎓 Education
 
 <div align="center">
 
-![Eshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eshwarnani8008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+```
+🎓 B.Tech — Electronics & Communications Engineering
+   Vardhaman College of Engineering (VCEH) · 2021 – 2025
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eshwarnani8008&layout=compact&theme=tokyonight&hide_border=true)
+📘 Intermediate — Telangana State Board (TSBIE)
+   SPR Junior College · 2019 – 2021
+```
 
 </div>
 
@@ -137,11 +200,15 @@ SPR Junior College · *2019 – 2021*
 
 <div align="center">
 
-### 💬 Let's connect and build something impactful!
+### 🤝 Let's Connect & Build Something Impactful!
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pilli-eshwar)
-[![Email](https://img.shields.io/badge/Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pillieshwar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pilli-eshwar)
+[![Email](https://img.shields.io/badge/Hire_Me_via_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pillieshwar@gmail.com)
 
-*Open to Data Analyst & Python Developer roles · On-site · Hybrid · Remote*
+<br/>
+
+*🟢 Open to Data Analyst & Python Developer roles · On-site · Hybrid · Remote*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:6C63FF,100:00C9A7&height=120&section=footer" width="100%"/>
 
 </div>
