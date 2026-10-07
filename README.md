@@ -115,9 +115,30 @@
 
 | 🔐 Project | 📝 Description | 🛠️ Tech |
 |:---|:---|:---|
-| **RNS-Based Digital Random Sequence Generator** | Designed an RNS-based random sequence generator boosting efficiency in high-speed computing & cryptography using parallel processing | `Cadence` `Xilinx Vivado` `Verilog HDL` |
-| **ECC Cryptography Using RNS Multiplication** | Implemented Elliptic Curve Cryptography using RNS multiplication for faster, smaller cryptographic keys | `Cadence` `Xilinx Vivado` `ECC` |
-| **Mass Mailing Automation** | Automated bulk email campaigns with data cleaning, segmentation & API integration | `Python` `SendGrid` `PostgreSQL` |
+### 📊 Campaign Performance Analytics Dashboard
+
+**Tools:** `SQL` · `Power BI` · `Python (Pandas)`
+*Associated with Narvee Technologies Pvt Ltd*
+
+- Built an interactive Power BI dashboard to analyze performance across 100+ email campaigns and support data-driven campaign decisions.
+- Designed Python-based ETL workflows to clean, deduplicate, and validate 100K+ subscriber records.
+- Analyzed key campaign KPIs including open rate, click-through rate (CTR), and bounce rate to identify performance trends and opportunities.
+- Reduced bounce rate by 40% through improved subscriber data quality and validation.
+- Improved campaign targeting by 30% through KPI-driven analysis and actionable insights.
+- Automated weekly and monthly reporting workflows using Python scripts and SQL queries, reducing manual reporting effort.
+
+---
+
+### 👥 Consultant Onboarding & Performance Analytics Dashboard
+
+**Tools:** `Power BI` · `Microsoft Excel` · `ATS` · `TMS` · `Outlook` · `Slack`
+
+- Developed a reporting solution to provide visibility into consultant onboarding, task completion, pending activities, and operational KPIs.
+- Created and managed consultant user accounts across ATS, TMS, Outlook, and Slack.
+- Assigned onboarding tasks and monitored consultant progress using the Task Management System (TMS).
+- Prepared weekly datasets in Microsoft Excel and developed Power BI dashboards to monitor onboarding progress and operational performance.
+- Conducted weekly review meetings to track onboarding status and identify and resolve operational issues.
+- Generated management reports covering consultant additions, task completion, pending activities, and key operational metrics.
 
 </div>
 
