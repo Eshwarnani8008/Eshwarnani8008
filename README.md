@@ -63,7 +63,7 @@
 ## 💼 Work Experience
 
 <details open>
-<summary><b>🟢 Python Developer — Narvee Technologies Pvt Ltd (Feb 2026 – Jul 2026)</b></summary>
+<summary><b>🟢 Data Analyst — Narvee Technologies Pvt Ltd (Feb 2026 – Jul 2026)</b></summary>
 <br/>
 
 > 📍 Hyderabad | On-site
@@ -73,7 +73,7 @@
 - 🔹 Automated workflows via **SendGrid/Mailchimp APIs**, eliminating manual extraction
 - 🔹 Delivered weekly/monthly **KPI reports** (Open Rate, CTR, Conversion Rate) to stakeholders
 
-`Python` `PostgreSQL` `SendGrid API` `KPI Reporting` `Data Pipelines`
+`Python` `PostgreSQL` `SQL` `KPI Reporting` `Power BI`
 
 
 </details>
@@ -167,8 +167,8 @@
 
 | 🏆 Certificate | 🏢 Issuer | 📅 Date |
 |:---|:---|:---|
+| 📚 Data Analyst Intern ExcelR | ExcelR | Sep 2026 |
 | 📊 Deloitte Australia — Data Analytics Job Simulation | Forage | Jun 2025 |
-| 📚 E-Learning Theory and Practice for Publishers | Alison | May 2023 |
 
 </div>
 
