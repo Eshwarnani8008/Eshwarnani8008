@@ -29,15 +29,15 @@
 
 🎓 **B.Tech in ECE** from Vardhaman College of Engineering (2025)
 
-💼 Currently working as **Python Developer** at **Narvee Technologies**
+💼 Worked as **Data Analyst** at **Narvee Technologies**
 
 🔭 Building **ETL pipelines**, dashboards & automation tools
 
-🌱 Actively exploring **advanced SQL**, **machine learning**, and **data storytelling**
+🌱 Actively exploring **advanced SQL**,and **data storytelling**
 
-📊 Passionate about turning messy datasets into **clear business insights**
+📊 Passionate about turning messy datasets into **clear dashboard insights**
 
-🎯 Seeking **Data Analyst / Python Developer** roles
+🎯 Seeking **Data Analyst** role
 
 📍 Hyderabad, India &nbsp;|&nbsp; 🟢 **Open to Work**
 
@@ -75,18 +75,6 @@
 
 `Python` `PostgreSQL` `SendGrid API` `KPI Reporting` `Data Pipelines`
 
-</details>
-
-<details>
-<summary><b>🔵 Data Analyst — Narvee Technologies Pvt Ltd (Mar 2025 – May 2025)</b></summary>
-<br/>
-
-- 🔹 Drafted **BRDs & FRDs** for a custom Applicant Tracking System
-- 🔹 Automated data extraction from LinkedIn & Dice via **Selenium / BeautifulSoup**
-- 🔹 Processed raw datasets with **Pandas**, maintaining SQL data integrity
-- 🔹 Managed requirements between stakeholders and tech teams
-
-`Selenium` `BeautifulSoup` `SQL` `Pandas` `BRD/FRD`
 
 </details>
 
