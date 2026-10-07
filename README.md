@@ -63,7 +63,7 @@
 ## 💼 Work Experience
 
 <details open>
-<summary><b>🟢 Python Developer — Narvee Technologies Pvt Ltd (Jun 2025 – Present)</b></summary>
+<summary><b>🟢 Python Developer — Narvee Technologies Pvt Ltd (Feb 2026 – Jul 2026)</b></summary>
 <br/>
 
 > 📍 Hyderabad | On-site
@@ -79,16 +79,6 @@
 </details>
 
 <details>
-<summary><b>🟣 RTL Design Intern — NIELIT (May 2024 – Jul 2024)</b></summary>
-<br/>
-
-- 🔹 Completed RTL Design training with **Verilog HDL** practical projects
-- 🔹 Hands-on with **VLSI CAD tools** and digital design phases
-- 🔹 Earned **NIELIT Certification**
-
-`Verilog HDL` `RTL Design` `VLSI CAD`
-
-</details>
 
 ---
 
@@ -108,19 +98,12 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **📈 Visualization & BI**
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-**⚙️ Automation & APIs**
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=for-the-badge&logo=sendgrid&logoColor=white)
-![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)
 
 </div>
 
