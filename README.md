@@ -4,7 +4,7 @@
 
 ### 🌟 Turning Raw Data into Real Decisions 🌟
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&random=false&width=600&lines=Data+Analyst+📊;Python+Developer+👨‍💻;SQL+|+Tableau+|+Power+BI;Open+to+Work+🟢+On-site+·+Hybrid+·+Remote)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&random=false&width=600&lines=Data+Analyst+📊;SQL+|+Tableau+|+Power+BI|+Excel+|;Open+to+Work+🟢+On-site+·+Hybrid+·+Remote)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pilli-eshwar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pillieshwar@gmail.com)
