@@ -199,7 +199,7 @@
 
 <br/>
 
-*🟢 Open to Data Analyst & Python Developer roles · On-site · Hybrid · Remote*
+*🟢 Open to Data Analyst role · On-site · Hybrid *
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:6C63FF,100:00C9A7&height=120&section=footer" width="100%"/>
 
