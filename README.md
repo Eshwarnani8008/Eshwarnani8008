@@ -152,7 +152,7 @@
 [![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pilli-eshwar)
 [![Email](https://img.shields.io/badge/Hire_Me_via-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pillieshwar@gmail.com)
 
-*🟢 Open to Data Analyst roles · On-site · Hybrid*
+*🟢 Open to Data Analyst roles · On-site · Hybrid . Remote *
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:6C63FF,100:00C9A7&height=120&section=footer)
 
